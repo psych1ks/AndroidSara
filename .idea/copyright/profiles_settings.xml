@@ -1,3 +1,7 @@
 <component name="CopyrightManager">
-  <settings default="Pyro Systems" />
+  <settings default="pyrosystems">
+    <module2copyright>
+      <element module="All" copyright="pyrosystems" />
+    </module2copyright>
+  </settings>
 </component>
